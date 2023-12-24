@@ -8,7 +8,7 @@
 ### JDK、JRE、JVM
 
 
-![[img/Pasted image 20231224151852.png]]
+![[img/20231224151852.png]]
 
 ![[Pasted image 20231224152945.png]]
 
